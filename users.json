@@ -1,0 +1,11 @@
+[
+
+  { "user":"student1",
+    "password": "st1"
+  },
+  {  "user":"student2",
+    "password": "st2"
+
+  }
+
+]
