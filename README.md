@@ -42,6 +42,6 @@ sudo apt-get install build-essential make libgnutls28-dev libreadline-dev
 
 2. Start the client: In a separate terminal or on a different machine, start the client by passing the server's IP address as a command-line argument.
 
-a. For local testing, run: ./client 127.0.0.1
+  a. For local testing, run: ./client 127.0.0.1
 
-b. For connecting to a remote server over the network, replace the IP with your server's address. For example: ./client 192.168.1.50
+  b. For connecting to a remote server over the network, replace the IP with your server's address. For example: ./client 192.168.1.50
